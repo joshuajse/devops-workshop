@@ -1,5 +1,5 @@
 # Simple "Hello World" workflow - most basic CI example
-name: Hello World CI
+name: Hello
 
 on:
   push:
